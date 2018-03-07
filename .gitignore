@@ -1,0 +1,4 @@
+.cm/
+.arch-opsys
+_fx*.[a-zA-Z]*-[a-zA-Z]*
+fxp.sh
